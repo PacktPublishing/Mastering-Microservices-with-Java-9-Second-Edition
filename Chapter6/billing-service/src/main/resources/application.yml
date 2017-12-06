@@ -1,0 +1,36 @@
+# Spring properties
+spring:
+  application:
+     name: booking-service  # Service registers under this name
+  # Added to fix -  java.lang.IllegalArgumentException: error at ::0 can't find referenced pointcut hystrixCommandAnnotationPointcut
+  aop:
+      auto: false
+  cloud:
+    stream:
+        bindings:
+            bookingOrderInput:
+                destination: amp.bookingOrdered
+                consumer:
+                    resetOffsets: true
+                group:
+                    ${bookingConsumerGroup}
+            tweetInput:
+                destination: tweet
+                consumer:
+                    resetOffsets: true
+                group:
+                    ${bookingConsumerGroup}
+        kafka:
+            binder:
+                zkNodes: localhost
+            binder:
+                brokers: localhost
+
+bookingConsumerGroup: "booking-service"
+
+# HTTP Server
+server:
+  port: 7051
+
+
+
