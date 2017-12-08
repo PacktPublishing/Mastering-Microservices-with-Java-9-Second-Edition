@@ -1,5 +1,5 @@
-# Mastering Microservices with Java 9 - Second EditionMastering Microservices with Java 9 - Second Edition
-This is the code repository for [Mastering Microservices with Java 9 - Second EditionMastering Microservices with Java 9 - Second Edition](https://www.packtpub.com/application-development/mastering-microservices-java-9-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787281448), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+# Mastering Microservices with Java 9 - Second Edition
+This is the code repository for [Mastering Microservices with Java 9 - Second Edition](https://www.packtpub.com/application-development/mastering-microservices-java-9-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787281448), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Microservices are the next big thing in designing scalable, easy-to-maintain applications. It not only makes app development easier, but also offers great flexibility to utilize various resources optimally. If you want to build an enterprise-ready implementation of the microservices architecture, then this is the book for you!
 
