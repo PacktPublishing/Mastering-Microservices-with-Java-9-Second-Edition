@@ -38,6 +38,3 @@ For this book, you can use any operating system (Linux, Windows, or Mac) with a 
 * [Building Microservices with .NET Core 2.0 - Second Edition](https://www.packtpub.com/application-development/building-microservices-net-core-20-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788393331)
 
 * [Microservices with Clojure](https://www.packtpub.com/application-development/microservices-clojure?utm_source=github&utm_medium=repository&utm_campaign=9781788622240)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
